@@ -5,6 +5,7 @@ function firstLetter(inputString) {
     }
 }
 
+
 function lastLetter(inputString) {
     if(inputString)
     {
